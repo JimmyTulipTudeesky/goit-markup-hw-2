@@ -1,0 +1,68 @@
+.site-nav a {
+    color: rgba(46, 47, 66, 1);
+}
+
+.site-nav a:hover {
+    color: rgba(64, 75, 191, 1);
+}
+
+.site-nav a:active {
+    color: rgba(64, 75, 191, 1);
+}
+
+body {
+    font-family: "Roboto" ? "Raleway";
+}
+
+h3 {
+    color: rgba(46, 47, 66, 1);
+}
+
+p {
+    color: rgba(67, 68, 85, 1);
+}
+
+div {
+    background-color: rgba(46, 47, 66, 1);
+}
+
+.section2 {
+    background-color: rgba(244, 244, 253, 1);
+    ;
+}
+
+footer {
+    background-color: rgba(46, 47, 66, 1);
+}
+
+.page-nav {
+    background-color: rgba(255, 255, 255, 1);
+}
+
+.section2-li {
+    background-color: rgba(255, 255, 255, 1);
+}
+
+.text {
+    font-size: 16px;
+}
+
+.page-nav a {
+    color: rgba(33, 33, 33, 1);
+}
+
+.page-nav a:hover {
+    color: rgba(33, 150, 243, 1);
+}
+
+.page-nav a:active {
+    color: rgba(64, 75, 191, 1);
+}
+
+.button {
+    color: rgba(77, 90, 229, 1);
+}
+
+.button:hover {
+    color: rgba(64, 75, 191, 1)
+}
