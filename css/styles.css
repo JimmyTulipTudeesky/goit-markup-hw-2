@@ -1,3 +1,7 @@
+/* nav */
+.site-nav {
+    background-color: #FFFFFF;
+}
 .site-nav a {
     color: rgba(46, 47, 66, 1);
 }
@@ -7,23 +11,36 @@
 }
 
 .site-nav a:active {
-    color: rgba(64, 75, 191, 1);
+    color: #404BBF;
 }
 
+.meil {
+    color: #2E2F42;
+}
+
+.phone {
+    color: #434455;;
+}
+
+.list {
+    list-style: none; 
+}
+
+/* уникальный контент */
 body {
     font-family: "Roboto" ? "Raleway";
 }
 
+.hero {
+    background-color:#2E2F42;
+}
+
 h3 {
-    color: rgba(46, 47, 66, 1);
+    color: #434455;
 }
 
 p {
     color: rgba(67, 68, 85, 1);
-}
-
-div {
-    background-color: rgba(46, 47, 66, 1);
 }
 
 .section2 {
@@ -51,7 +68,8 @@ footer {
     color: rgba(33, 33, 33, 1);
 }
 
-.page-nav a:hover {
+.page-nav a:hover, 
+.page-nav a:focus {
     color: rgba(33, 150, 243, 1);
 }
 
@@ -65,4 +83,17 @@ footer {
 
 .button:hover {
     color: rgba(64, 75, 191, 1)
+}
+
+.section1-title {
+    color: #2E2F42;
+}
+
+.section2-title {
+    color: #2E2F42;
+}
+
+/* footer */
+.contacts {
+    background-color: #2E2F42;
 }
